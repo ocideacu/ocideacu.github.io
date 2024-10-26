@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocideacu.github.io/sitemap_index.ocideacu
